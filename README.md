@@ -70,30 +70,18 @@
 
 	```
 	GET	http://ip:port/message/all
+	
 	```
 
-  返回
-  
-  	
-  ```
+  返回	
+ ```
 {
     "messages": [
         {
             "body": "",
             "username": "tom",
             "time": "2017-12-20 22:16:09"
-        },
-        {
-            "body": "12345",
-            "username": "tom",
-            "time": "2017-12-20 22:16:30"
-        },
-        {
-            "body": "12345",
-            "username": "tom",
-            "time": "2017-12-20 22:16:38"
         }
     ]
 }
-
   	```
