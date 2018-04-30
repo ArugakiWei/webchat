@@ -68,12 +68,14 @@
    ```
 * 获得所有消息
 
-	`GET	http://ip:port/message/all`
+	```
+	GET	http://ip:port/message/all
+	```
 
   返回
+  
   	
   ```
-
 {
     "messages": [
         {
